@@ -1,0 +1,16 @@
+{
+  "initial_capital": 1000.0,
+  "final_capital": 69.48310439054205,
+  "total_trades": 104,
+  "winning_trades": 45,
+  "losing_trades": 59,
+  "win_rate": 43.269230769230774,
+  "total_pnl": -3.858891236373052e-16,
+  "total_return": -93.05168956094579,
+  "avg_win": 4.750903826825036,
+  "avg_loss": 2.85712453670806,
+  "actual_risk_reward": 1.662827001688545,
+  "stop_losses": 58,
+  "take_profits": 45,
+  "target_risk_reward": 2.0
+}

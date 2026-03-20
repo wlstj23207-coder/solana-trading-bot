@@ -1,0 +1,2889 @@
+{
+  "summary": {
+    "initial_capital": 1000.0,
+    "final_capital": 1000.0,
+    "total_return": 0.0,
+    "total_pnl": 0,
+    "total_trades": 0,
+    "win_rate": 0,
+    "max_profit": 0,
+    "max_loss": 0,
+    "avg_win": 0,
+    "avg_loss": 0,
+    "actual_risk_reward": 0
+  },
+  "by_symbol": {},
+  "signals": [
+    {
+      "time": 15,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=34.9, Above BB",
+      "price": 77.54977896569935
+    },
+    {
+      "time": 15,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=35.0, Above BB",
+      "price": 9.05273490862989e-06
+    },
+    {
+      "time": 15,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=28.7, Above BB",
+      "price": 1.5226825614561923
+    },
+    {
+      "time": 16,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=35.1, Above BB",
+      "price": 81.06974954769692
+    },
+    {
+      "time": 16,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=32.8, Above BB",
+      "price": 8.224541812530654e-06
+    },
+    {
+      "time": 16,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=67.4, Above BB",
+      "price": 3.282388075425624
+    },
+    {
+      "time": 16,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=29.6, Above BB",
+      "price": 1.6935965081747457
+    },
+    {
+      "time": 17,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=35.8, Above BB",
+      "price": 83.07439102155497
+    },
+    {
+      "time": 17,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=33.3, Above BB",
+      "price": 8.718243011742499e-06
+    },
+    {
+      "time": 17,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=70.9, Above BB",
+      "price": 3.2252480520919264
+    },
+    {
+      "time": 17,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=62.1, Above BB",
+      "price": 1.2092079646680698
+    },
+    {
+      "time": 17,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=16.8, Above BB",
+      "price": 1.5698695856835703
+    },
+    {
+      "time": 18,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=43.6, Above BB",
+      "price": 88.41497281793808
+    },
+    {
+      "time": 18,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=26.1, Above BB",
+      "price": 9.0318852013179e-06
+    },
+    {
+      "time": 18,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=25.9, Above BB",
+      "price": 1.7384238259483007
+    },
+    {
+      "time": 32,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=34.5, Below BB",
+      "price": 74.80415493480136
+    },
+    {
+      "time": 33,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=38.4, Below BB",
+      "price": 73.18092847727468
+    },
+    {
+      "time": 34,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=33.4, Below BB",
+      "price": 67.54374455412247
+    },
+    {
+      "time": 36,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=75.2, Above BB",
+      "price": 1.286584385048713
+    },
+    {
+      "time": 41,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=65.4, Above BB",
+      "price": 1.0250772733046826e-05
+    },
+    {
+      "time": 43,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=66.5, Above BB",
+      "price": 1.0997913484108353e-05
+    },
+    {
+      "time": 44,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=67.3, Above BB",
+      "price": 1.2090345802247716e-05
+    },
+    {
+      "time": 45,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=69.5, Above BB",
+      "price": 1.186185363533655e-05
+    },
+    {
+      "time": 46,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=70.6, Above BB",
+      "price": 1.3407880715683917e-05
+    },
+    {
+      "time": 52,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=75.9, Above BB",
+      "price": 1.4715240488659682e-05
+    },
+    {
+      "time": 52,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=68.9, Above BB",
+      "price": 1.8294673864630946
+    },
+    {
+      "time": 53,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=69.1, Above BB",
+      "price": 1.3565002877504873
+    },
+    {
+      "time": 54,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=74.5, Above BB",
+      "price": 1.475159881786499
+    },
+    {
+      "time": 60,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=28.5, Below BB",
+      "price": 7.440060068897035e-06
+    },
+    {
+      "time": 66,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=64.8, Above BB",
+      "price": 1.7199730278881953
+    },
+    {
+      "time": 67,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=66.6, Above BB",
+      "price": 2.0261616655022614
+    },
+    {
+      "time": 68,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=70.2, Above BB",
+      "price": 2.3859552025736246
+    },
+    {
+      "time": 72,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=60.3, Above BB",
+      "price": 1.1221059128941688
+    },
+    {
+      "time": 75,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=61.4, Above BB",
+      "price": 1.7737999221424208
+    },
+    {
+      "time": 76,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=68.5, Above BB",
+      "price": 72.18043911695305
+    },
+    {
+      "time": 81,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=43.5, Below BB",
+      "price": 1.4142539817319952
+    },
+    {
+      "time": 82,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=63.4, Above BB",
+      "price": 1.1174101242389864
+    },
+    {
+      "time": 83,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=71.3, Above BB",
+      "price": 1.251906126040125
+    },
+    {
+      "time": 85,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=31.3, Below BB",
+      "price": 1.2361406785883138
+    },
+    {
+      "time": 86,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=61.8, Above BB",
+      "price": 1.3320051204947874
+    },
+    {
+      "time": 87,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=66.3, Above BB",
+      "price": 1.488041179072396
+    },
+    {
+      "time": 87,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.2, Below BB",
+      "price": 1.182091694789652
+    },
+    {
+      "time": 88,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=74.4, Above BB",
+      "price": 1.4764319466185656
+    },
+    {
+      "time": 89,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=79.4, Above BB",
+      "price": 1.5733882155300307
+    },
+    {
+      "time": 96,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=61.0, Above BB",
+      "price": 7.507284169033298e-06
+    },
+    {
+      "time": 97,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=60.4, Above BB",
+      "price": 8.161018747149583e-06
+    },
+    {
+      "time": 98,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=71.3, Above BB",
+      "price": 69.58733226870591
+    },
+    {
+      "time": 98,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=63.1, Above BB",
+      "price": 1.7688658729516333
+    },
+    {
+      "time": 99,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=83.3, Above BB",
+      "price": 72.01388497052984
+    },
+    {
+      "time": 103,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=34.6, Below BB",
+      "price": 0.9734536754145238
+    },
+    {
+      "time": 104,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=30.6, Below BB",
+      "price": 0.8830454037077514
+    },
+    {
+      "time": 104,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=62.6, Above BB",
+      "price": 1.843163613938582
+    },
+    {
+      "time": 105,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=78.5, Above BB",
+      "price": 80.76445127486116
+    },
+    {
+      "time": 107,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.8, Above BB",
+      "price": 84.63897021913769
+    },
+    {
+      "time": 107,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=40.5, Below BB",
+      "price": 6.440394941635963e-06
+    },
+    {
+      "time": 107,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=70.9, Above BB",
+      "price": 2.046268287773962
+    },
+    {
+      "time": 108,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=78.7, Above BB",
+      "price": 2.250625343153971
+    },
+    {
+      "time": 109,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=80.4, Above BB",
+      "price": 87.75074184403779
+    },
+    {
+      "time": 110,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=67.4, Above BB",
+      "price": 2.108601491464477
+    },
+    {
+      "time": 116,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=43.7, Below BB",
+      "price": 1.3484886330267316
+    },
+    {
+      "time": 117,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=69.4, Above BB",
+      "price": 89.38901188658906
+    },
+    {
+      "time": 118,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=70.1, Above BB",
+      "price": 95.91797058209012
+    },
+    {
+      "time": 119,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=70.1, Above BB",
+      "price": 100.375820214928
+    },
+    {
+      "time": 119,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=39.7, Below BB",
+      "price": 0.7142621237052715
+    },
+    {
+      "time": 120,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=72.4, Above BB",
+      "price": 102.84961828040359
+    },
+    {
+      "time": 124,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=70.3, Above BB",
+      "price": 110.27395638778957
+    },
+    {
+      "time": 127,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.2, Below BB",
+      "price": 1.909011310860101
+    },
+    {
+      "time": 129,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.8, Below BB",
+      "price": 4.649068320180172e-06
+    },
+    {
+      "time": 130,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=65.1, Above BB",
+      "price": 0.9208825820300168
+    },
+    {
+      "time": 131,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=65.5, Above BB",
+      "price": 1.0045618958740383
+    },
+    {
+      "time": 133,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=68.2, Above BB",
+      "price": 1.0726968474544345
+    },
+    {
+      "time": 134,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=71.4, Above BB",
+      "price": 1.0954704711171797
+    },
+    {
+      "time": 141,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 1.358268610378358
+    },
+    {
+      "time": 142,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=63.9, Above BB",
+      "price": 125.58824668553483
+    },
+    {
+      "time": 144,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=61.1, Above BB",
+      "price": 1.1301832513280092
+    },
+    {
+      "time": 147,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=33.1, Below BB",
+      "price": 1.4703987793981916
+    },
+    {
+      "time": 148,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=29.6, Below BB",
+      "price": 3.2541039350496123e-06
+    },
+    {
+      "time": 149,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=39.4, Below BB",
+      "price": 3.6054677072221046e-06
+    },
+    {
+      "time": 151,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=41.5, Below BB",
+      "price": 0.7920455336279449
+    },
+    {
+      "time": 151,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=32.7, Below BB",
+      "price": 1.0883402978392123
+    },
+    {
+      "time": 152,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.0, Below BB",
+      "price": 1.0300645873032632
+    },
+    {
+      "time": 154,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=38.7, Below BB",
+      "price": 0.7597781343475445
+    },
+    {
+      "time": 155,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=38.2, Below BB",
+      "price": 0.6226360495846381
+    },
+    {
+      "time": 156,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=36.0, Below BB",
+      "price": 0.5361086184467272
+    },
+    {
+      "time": 163,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=38.7, Below BB",
+      "price": 97.16759347901083
+    },
+    {
+      "time": 164,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=34.1, Below BB",
+      "price": 91.81116970759811
+    },
+    {
+      "time": 165,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=35.4, Below BB",
+      "price": 90.00236082460955
+    },
+    {
+      "time": 165,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=34.6, Below BB",
+      "price": 3.0749167972748595e-06
+    },
+    {
+      "time": 166,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.9, Below BB",
+      "price": 3.104800396676247e-06
+    },
+    {
+      "time": 171,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=84.1, Above BB",
+      "price": 1.499103203230729
+    },
+    {
+      "time": 177,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=33.6, Below BB",
+      "price": 0.9613965338442301
+    },
+    {
+      "time": 178,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=31.7, Below BB",
+      "price": 0.9243578453566078
+    },
+    {
+      "time": 185,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=61.9, Above BB",
+      "price": 4.313135586266012e-06
+    },
+    {
+      "time": 186,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=34.0, Below BB",
+      "price": 0.8861599120915321
+    },
+    {
+      "time": 189,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=28.1, Below BB",
+      "price": 0.7924154449158229
+    },
+    {
+      "time": 190,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=30.2, Below BB",
+      "price": 0.7752638055270417
+    },
+    {
+      "time": 194,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=61.4, Above BB",
+      "price": 1.5206838359353567
+    },
+    {
+      "time": 197,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=33.4, Below BB",
+      "price": 1.109633848233623
+    },
+    {
+      "time": 203,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.2, Above BB",
+      "price": 1.160977767068019
+    },
+    {
+      "time": 204,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=64.0, Above BB",
+      "price": 1.7492354929998877
+    },
+    {
+      "time": 205,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=73.2, Above BB",
+      "price": 1.9969026274870005
+    },
+    {
+      "time": 205,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=71.3, Above BB",
+      "price": 1.2163957938336305
+    },
+    {
+      "time": 207,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=61.1, Above BB",
+      "price": 112.93883615415211
+    },
+    {
+      "time": 207,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=67.3, Above BB",
+      "price": 1.261667559788411
+    },
+    {
+      "time": 211,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=67.1, Above BB",
+      "price": 3.79112320201814e-06
+    },
+    {
+      "time": 214,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=73.2, Above BB",
+      "price": 4.290903479144908e-06
+    },
+    {
+      "time": 215,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=69.6, Above BB",
+      "price": 4.296457511948749e-06
+    },
+    {
+      "time": 216,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=74.4, Above BB",
+      "price": 119.4631134362491
+    },
+    {
+      "time": 216,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=73.2, Above BB",
+      "price": 4.834272661161365e-06
+    },
+    {
+      "time": 217,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=73.5, Above BB",
+      "price": 122.70632091678493
+    },
+    {
+      "time": 217,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=83.0, Above BB",
+      "price": 4.937501775091922e-06
+    },
+    {
+      "time": 218,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=77.3, Above BB",
+      "price": 130.66439746473938
+    },
+    {
+      "time": 218,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=70.0, Above BB",
+      "price": 1.3814798272014899
+    },
+    {
+      "time": 219,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.4, Above BB",
+      "price": 132.91806407912935
+    },
+    {
+      "time": 220,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=74.5, Above BB",
+      "price": 134.68071194307282
+    },
+    {
+      "time": 220,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=83.3, Above BB",
+      "price": 5.4568346740819235e-06
+    },
+    {
+      "time": 221,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=84.4, Above BB",
+      "price": 6.070790109624764e-06
+    },
+    {
+      "time": 222,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=83.4, Above BB",
+      "price": 142.97682614036574
+    },
+    {
+      "time": 222,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=86.7, Above BB",
+      "price": 6.481764063813467e-06
+    },
+    {
+      "time": 225,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=38.4, Below BB",
+      "price": 1.4492442202868703
+    },
+    {
+      "time": 226,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=39.5, Below BB",
+      "price": 1.2549554731456452
+    },
+    {
+      "time": 226,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=60.3, Above BB",
+      "price": 1.2557641282132446
+    },
+    {
+      "time": 229,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=60.6, Above BB",
+      "price": 125.51735367777782
+    },
+    {
+      "time": 229,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=39.1, Below BB",
+      "price": 1.0260753482170837
+    },
+    {
+      "time": 230,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=67.3, Above BB",
+      "price": 1.1141046303857394
+    },
+    {
+      "time": 231,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=68.0, Above BB",
+      "price": 1.1335596895601716
+    },
+    {
+      "time": 235,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=39.6, Below BB",
+      "price": 124.20319266217719
+    },
+    {
+      "time": 236,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=32.6, Below BB",
+      "price": 118.0921660379563
+    },
+    {
+      "time": 236,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=34.9, Below BB",
+      "price": 0.9014698964254735
+    },
+    {
+      "time": 237,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=34.5, Below BB",
+      "price": 111.40905500957433
+    },
+    {
+      "time": 239,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=36.5, Below BB",
+      "price": 5.491862475686585e-06
+    },
+    {
+      "time": 246,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=64.8, Above BB",
+      "price": 1.2545117500977034
+    },
+    {
+      "time": 247,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=36.9, Below BB",
+      "price": 118.67833443882618
+    },
+    {
+      "time": 247,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.1, Above BB",
+      "price": 1.2974805936998397
+    },
+    {
+      "time": 248,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=37.6, Below BB",
+      "price": 112.07275484021883
+    },
+    {
+      "time": 248,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=73.9, Above BB",
+      "price": 1.400777155032181
+    },
+    {
+      "time": 249,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=70.1, Above BB",
+      "price": 1.369487374979789
+    },
+    {
+      "time": 252,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=37.5, Below BB",
+      "price": 4.464132618258929e-06
+    },
+    {
+      "time": 252,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=68.8, Above BB",
+      "price": 1.5154301589508272
+    },
+    {
+      "time": 255,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=31.0, Below BB",
+      "price": 100.96553998902873
+    },
+    {
+      "time": 256,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=27.6, Below BB",
+      "price": 95.93968948619236
+    },
+    {
+      "time": 257,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=19.4, Below BB",
+      "price": 0.23019390687380298
+    },
+    {
+      "time": 258,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=19.9, Below BB",
+      "price": 0.18592151839585816
+    },
+    {
+      "time": 274,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=62.9, Above BB",
+      "price": 120.2286188860782
+    },
+    {
+      "time": 275,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=61.4, Above BB",
+      "price": 119.3496432574176
+    },
+    {
+      "time": 276,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=62.4, Above BB",
+      "price": 127.7880058490725
+    },
+    {
+      "time": 277,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=64.4, Above BB",
+      "price": 135.36838233209878
+    },
+    {
+      "time": 279,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=71.0, Above BB",
+      "price": 5.284492144229048e-06
+    },
+    {
+      "time": 280,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=66.3, Above BB",
+      "price": 134.6190586462872
+    },
+    {
+      "time": 280,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=81.3, Above BB",
+      "price": 5.455051955265187e-06
+    },
+    {
+      "time": 281,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=66.0, Above BB",
+      "price": 138.88368640804444
+    },
+    {
+      "time": 281,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=80.7, Above BB",
+      "price": 5.7707211956933545e-06
+    },
+    {
+      "time": 282,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=74.2, Above BB",
+      "price": 142.5229589473069
+    },
+    {
+      "time": 282,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=86.6, Above BB",
+      "price": 6.39542285157012e-06
+    },
+    {
+      "time": 287,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=39.8, Below BB",
+      "price": 1.0604490327771867
+    },
+    {
+      "time": 292,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=32.1, Below BB",
+      "price": 0.953255530056664
+    },
+    {
+      "time": 295,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=33.1, Below BB",
+      "price": 4.082853004490893e-06
+    },
+    {
+      "time": 296,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=63.7, Above BB",
+      "price": 0.2062898962124753
+    },
+    {
+      "time": 297,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=63.3, Above BB",
+      "price": 0.20944699698671956
+    },
+    {
+      "time": 298,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=27.4, Below BB",
+      "price": 3.7219260252684787e-06
+    },
+    {
+      "time": 299,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=69.7, Above BB",
+      "price": 0.23322992358227343
+    },
+    {
+      "time": 300,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=38.0, Below BB",
+      "price": 1.1438372854961907
+    },
+    {
+      "time": 301,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=38.2, Below BB",
+      "price": 1.0181440086731341
+    },
+    {
+      "time": 303,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.6, Below BB",
+      "price": 0.9872116024578897
+    },
+    {
+      "time": 304,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.5, Below BB",
+      "price": 0.9083643313267366
+    },
+    {
+      "time": 305,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=64.0, Above BB",
+      "price": 152.438786206594
+    },
+    {
+      "time": 305,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=28.3, Below BB",
+      "price": 0.8224134148644898
+    },
+    {
+      "time": 306,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=29.8, Below BB",
+      "price": 0.7485664634769137
+    },
+    {
+      "time": 307,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=39.4, Below BB",
+      "price": 0.769643680565158
+    },
+    {
+      "time": 312,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=61.0, Above BB",
+      "price": 0.2619979135937946
+    },
+    {
+      "time": 313,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=63.1, Above BB",
+      "price": 1.1874102408921179
+    },
+    {
+      "time": 315,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=66.8, Above BB",
+      "price": 1.2115746086027277
+    },
+    {
+      "time": 316,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=68.7, Above BB",
+      "price": 1.2738732093496794
+    },
+    {
+      "time": 319,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=61.1, Above BB",
+      "price": 174.96960635716496
+    },
+    {
+      "time": 320,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=67.3, Above BB",
+      "price": 188.65769746266528
+    },
+    {
+      "time": 321,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.8, Below BB",
+      "price": 2.648126981413111e-06
+    },
+    {
+      "time": 331,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.9, Below BB",
+      "price": 3.590770281288804e-06
+    },
+    {
+      "time": 331,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.8, Below BB",
+      "price": 0.6688919587346461
+    },
+    {
+      "time": 332,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=69.7, Above BB",
+      "price": 0.28318169423487904
+    },
+    {
+      "time": 332,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 0.6223761909701571
+    },
+    {
+      "time": 333,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=80.2, Above BB",
+      "price": 0.3126551701797238
+    },
+    {
+      "time": 333,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=27.8, Below BB",
+      "price": 0.5800089826586994
+    },
+    {
+      "time": 334,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=81.0, Above BB",
+      "price": 0.32514153944565366
+    },
+    {
+      "time": 334,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=20.3, Below BB",
+      "price": 0.5340364339126407
+    },
+    {
+      "time": 335,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=82.9, Above BB",
+      "price": 0.3838103396387253
+    },
+    {
+      "time": 335,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=21.6, Below BB",
+      "price": 0.48897004765522295
+    },
+    {
+      "time": 336,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=84.9, Above BB",
+      "price": 0.4046823882228639
+    },
+    {
+      "time": 337,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 1.0203776767166892
+    },
+    {
+      "time": 338,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=34.2, Below BB",
+      "price": 0.938025117738289
+    },
+    {
+      "time": 339,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.8, Below BB",
+      "price": 0.8404500108083124
+    },
+    {
+      "time": 340,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.9, Below BB",
+      "price": 0.8036406300670943
+    },
+    {
+      "time": 341,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 0.7138839132880477
+    },
+    {
+      "time": 342,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=83.3, Above BB",
+      "price": 0.5281954306017357
+    },
+    {
+      "time": 343,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=64.1, Above BB",
+      "price": 4.287303620774127e-06
+    },
+    {
+      "time": 344,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=66.3, Above BB",
+      "price": 4.886449530132847e-06
+    },
+    {
+      "time": 344,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=81.0, Above BB",
+      "price": 0.5796637731441184
+    },
+    {
+      "time": 345,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=69.2, Above BB",
+      "price": 5.385972029864467e-06
+    },
+    {
+      "time": 346,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=69.3, Above BB",
+      "price": 5.563059737612378e-06
+    },
+    {
+      "time": 361,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.8, Above BB",
+      "price": 215.7644767316961
+    },
+    {
+      "time": 362,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=73.2, Above BB",
+      "price": 0.7394613270983448
+    },
+    {
+      "time": 363,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=82.7, Above BB",
+      "price": 0.803579768976991
+    },
+    {
+      "time": 364,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=88.6, Above BB",
+      "price": 0.9461419897539762
+    },
+    {
+      "time": 365,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=84.0, Above BB",
+      "price": 0.9133668256003148
+    },
+    {
+      "time": 368,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.5, Above BB",
+      "price": 0.48210945601342053
+    },
+    {
+      "time": 369,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.6, Above BB",
+      "price": 0.49428561662094816
+    },
+    {
+      "time": 375,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=26.6, Below BB",
+      "price": 2.5304600022972905e-06
+    },
+    {
+      "time": 376,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=32.0, Below BB",
+      "price": 2.6366261912812816e-06
+    },
+    {
+      "time": 378,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=38.1, Below BB",
+      "price": 0.7054564498344308
+    },
+    {
+      "time": 380,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=31.3, Below BB",
+      "price": 0.4841005750698558
+    },
+    {
+      "time": 381,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=30.4, Below BB",
+      "price": 0.44609862449812
+    },
+    {
+      "time": 382,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=30.4, Below BB",
+      "price": 0.3997094636938246
+    },
+    {
+      "time": 383,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=77.0, Above BB",
+      "price": 1.1180275753311066
+    },
+    {
+      "time": 383,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=19.4, Below BB",
+      "price": 0.35227625919006894
+    },
+    {
+      "time": 384,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=84.4, Above BB",
+      "price": 1.1372496894773891
+    },
+    {
+      "time": 384,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=19.0, Below BB",
+      "price": 0.3364933946015843
+    },
+    {
+      "time": 385,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=33.0, Below BB",
+      "price": 152.63686689607843
+    },
+    {
+      "time": 388,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=39.5, Below BB",
+      "price": 149.7053758735386
+    },
+    {
+      "time": 389,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=28.1, Below BB",
+      "price": 138.7398511093965
+    },
+    {
+      "time": 392,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=64.7, Above BB",
+      "price": 3.982047573411324e-06
+    },
+    {
+      "time": 393,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=68.2, Above BB",
+      "price": 4.433466802048028e-06
+    },
+    {
+      "time": 393,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=37.1, Below BB",
+      "price": 0.44292687535185304
+    },
+    {
+      "time": 396,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=43.7, Below BB",
+      "price": 0.30535663600096447
+    },
+    {
+      "time": 397,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=77.1, Above BB",
+      "price": 4.753839103707521e-06
+    },
+    {
+      "time": 397,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 0.2736818718154626
+    },
+    {
+      "time": 398,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.8, Below BB",
+      "price": 0.26918139025027565
+    },
+    {
+      "time": 399,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=34.2, Below BB",
+      "price": 0.25407357697987204
+    },
+    {
+      "time": 408,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=61.4, Above BB",
+      "price": 4.710219589657035e-06
+    },
+    {
+      "time": 409,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=30.2, Below BB",
+      "price": 127.49766951444771
+    },
+    {
+      "time": 410,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=27.7, Below BB",
+      "price": 120.26385232417393
+    },
+    {
+      "time": 411,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=29.0, Below BB",
+      "price": 116.10593354902666
+    },
+    {
+      "time": 412,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=26.3, Below BB",
+      "price": 107.29008325023821
+    },
+    {
+      "time": 413,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=25.0, Below BB",
+      "price": 101.84681658003962
+    },
+    {
+      "time": 414,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=25.5, Below BB",
+      "price": 100.21961652259887
+    },
+    {
+      "time": 416,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=39.1, Below BB",
+      "price": 3.453334075010546e-06
+    },
+    {
+      "time": 416,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=45.7, Below BB",
+      "price": 0.2115308820545569
+    },
+    {
+      "time": 417,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.5, Below BB",
+      "price": 3.3311617645590313e-06
+    },
+    {
+      "time": 417,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=34.4, Below BB",
+      "price": 0.2624988384833699
+    },
+    {
+      "time": 418,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=60.8, Above BB",
+      "price": 0.8394815547224915
+    },
+    {
+      "time": 422,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=35.3, Below BB",
+      "price": 116.88846727495806
+    },
+    {
+      "time": 422,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=31.5, Below BB",
+      "price": 0.2246351791487262
+    },
+    {
+      "time": 424,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=37.7, Below BB",
+      "price": 0.3949018273301866
+    },
+    {
+      "time": 427,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=83.9, Above BB",
+      "price": 142.69548651214615
+    },
+    {
+      "time": 428,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=87.1, Above BB",
+      "price": 146.2533642143467
+    },
+    {
+      "time": 429,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=87.8, Above BB",
+      "price": 153.58194736431668
+    },
+    {
+      "time": 431,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=76.1, Above BB",
+      "price": 5.647240944713044e-06
+    },
+    {
+      "time": 431,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=62.4, Above BB",
+      "price": 0.27572072967962247
+    },
+    {
+      "time": 432,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=75.5, Above BB",
+      "price": 5.7722821979529005e-06
+    },
+    {
+      "time": 434,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=25.4, Below BB",
+      "price": 0.45095512213839795
+    },
+    {
+      "time": 434,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=65.7, Above BB",
+      "price": 0.30116299841128497
+    },
+    {
+      "time": 435,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=28.5, Below BB",
+      "price": 0.4014126553145508
+    },
+    {
+      "time": 436,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=34.7, Below BB",
+      "price": 0.39245451554320376
+    },
+    {
+      "time": 441,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=38.0, Below BB",
+      "price": 0.28332711355336865
+    },
+    {
+      "time": 441,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=72.8, Above BB",
+      "price": 0.2901774283023914
+    },
+    {
+      "time": 443,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=35.2, Below BB",
+      "price": 128.66927435928412
+    },
+    {
+      "time": 444,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=35.1, Below BB",
+      "price": 123.42316392386749
+    },
+    {
+      "time": 445,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=34.1, Below BB",
+      "price": 119.13568776733305
+    },
+    {
+      "time": 445,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=34.1, Below BB",
+      "price": 0.1977811585337961
+    },
+    {
+      "time": 446,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=39.2, Below BB",
+      "price": 124.12251505321295
+    },
+    {
+      "time": 446,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=35.0, Below BB",
+      "price": 0.17718536202046994
+    },
+    {
+      "time": 451,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=32.5, Below BB",
+      "price": 3.701104877798214e-06
+    },
+    {
+      "time": 452,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=28.0, Below BB",
+      "price": 3.643872890557881e-06
+    },
+    {
+      "time": 454,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=24.5, Below BB",
+      "price": 109.12925917186725
+    },
+    {
+      "time": 454,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=25.3, Below BB",
+      "price": 3.3239666116531826e-06
+    },
+    {
+      "time": 455,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=25.4, Below BB",
+      "price": 3.2372688681586074e-06
+    },
+    {
+      "time": 455,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=33.0, Below BB",
+      "price": 0.18572934164327676
+    },
+    {
+      "time": 456,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=66.5, Above BB",
+      "price": 0.4947346858467379
+    },
+    {
+      "time": 456,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=32.3, Below BB",
+      "price": 0.16826063123968324
+    },
+    {
+      "time": 457,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=68.4, Above BB",
+      "price": 0.5654224020746565
+    },
+    {
+      "time": 458,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=81.0, Above BB",
+      "price": 0.6686283920573037
+    },
+    {
+      "time": 459,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=83.6, Above BB",
+      "price": 0.771066038336834
+    },
+    {
+      "time": 460,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=37.3, Below BB",
+      "price": 0.2187753504548126
+    },
+    {
+      "time": 461,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=75.1, Above BB",
+      "price": 0.7713839596572515
+    },
+    {
+      "time": 461,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=29.1, Below BB",
+      "price": 0.2157735205387259
+    },
+    {
+      "time": 464,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=75.9, Above BB",
+      "price": 0.9064147034352827
+    },
+    {
+      "time": 465,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=39.1, Below BB",
+      "price": 115.80158536087015
+    },
+    {
+      "time": 466,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=31.9, Below BB",
+      "price": 0.17496233446643253
+    },
+    {
+      "time": 468,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=78.0, Above BB",
+      "price": 1.135771028634382
+    },
+    {
+      "time": 469,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=79.4, Above BB",
+      "price": 1.2346709720755211
+    },
+    {
+      "time": 470,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=33.5, Below BB",
+      "price": 2.1621767643393458e-06
+    },
+    {
+      "time": 471,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=73.5, Above BB",
+      "price": 140.82260590342761
+    },
+    {
+      "time": 472,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=79.3, Above BB",
+      "price": 144.0296687393392
+    },
+    {
+      "time": 473,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=81.5, Above BB",
+      "price": 152.29035137199995
+    },
+    {
+      "time": 476,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=68.8, Above BB",
+      "price": 0.2647399468049163
+    },
+    {
+      "time": 479,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=39.6, Below BB",
+      "price": 2.596249384071966e-06
+    },
+    {
+      "time": 482,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=68.8, Above BB",
+      "price": 167.61624981189468
+    },
+    {
+      "time": 483,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=72.5, Above BB",
+      "price": 170.58977120476843
+    },
+    {
+      "time": 485,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=70.7, Above BB",
+      "price": 178.06684594251035
+    },
+    {
+      "time": 485,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=66.9, Above BB",
+      "price": 1.6917913615441909
+    },
+    {
+      "time": 486,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=32.9, Below BB",
+      "price": 1.6310077693053118e-06
+    },
+    {
+      "time": 486,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=70.2, Above BB",
+      "price": 1.871107199390805
+    },
+    {
+      "time": 487,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=71.6, Above BB",
+      "price": 192.46843894399677
+    },
+    {
+      "time": 487,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=33.4, Below BB",
+      "price": 1.4750683795483029e-06
+    },
+    {
+      "time": 487,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=73.1, Above BB",
+      "price": 1.7594890202401323
+    },
+    {
+      "time": 488,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=74.5, Above BB",
+      "price": 2.0060878285595534
+    },
+    {
+      "time": 489,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=81.1, Above BB",
+      "price": 2.3867561666871904
+    },
+    {
+      "time": 490,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=80.9, Above BB",
+      "price": 2.394100168328136
+    },
+    {
+      "time": 491,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=82.3, Above BB",
+      "price": 2.751253686612872
+    },
+    {
+      "time": 498,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=39.7, Below BB",
+      "price": 0.2331993907754151
+    },
+    {
+      "time": 499,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.3, Below BB",
+      "price": 0.20883445317780583
+    },
+    {
+      "time": 500,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.9, Below BB",
+      "price": 0.1918808772057558
+    },
+    {
+      "time": 503,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=66.0, Above BB",
+      "price": 0.23478919372878343
+    },
+    {
+      "time": 504,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=33.0, Below BB",
+      "price": 1.2734693906921655
+    },
+    {
+      "time": 504,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=62.5, Above BB",
+      "price": 0.22602562536087895
+    },
+    {
+      "time": 512,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=39.5, Below BB",
+      "price": 1.3209459386349198
+    },
+    {
+      "time": 518,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=60.1, Above BB",
+      "price": 0.24409303877185012
+    },
+    {
+      "time": 519,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.3, Above BB",
+      "price": 0.2697648702260348
+    },
+    {
+      "time": 520,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=80.9, Above BB",
+      "price": 0.27995933402293954
+    },
+    {
+      "time": 521,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=63.4, Above BB",
+      "price": 2.111988866504857
+    },
+    {
+      "time": 522,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.5, Below BB",
+      "price": 0.16659762817757076
+    },
+    {
+      "time": 523,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=39.5, Below BB",
+      "price": 0.15837034762825425
+    },
+    {
+      "time": 524,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=38.6, Below BB",
+      "price": 6.110990541423404e-07
+    },
+    {
+      "time": 524,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=39.9, Below BB",
+      "price": 0.14413734434057326
+    },
+    {
+      "time": 527,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=61.2, Above BB",
+      "price": 163.3905323690015
+    },
+    {
+      "time": 527,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.2, Below BB",
+      "price": 0.12083306963973853
+    },
+    {
+      "time": 528,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=36.4, Below BB",
+      "price": 0.12082596177586588
+    },
+    {
+      "time": 530,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=61.6, Above BB",
+      "price": 181.87645948523868
+    },
+    {
+      "time": 531,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=61.2, Above BB",
+      "price": 2.0936226314571975
+    },
+    {
+      "time": 534,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=28.5, Below BB",
+      "price": 0.19725358840146515
+    },
+    {
+      "time": 535,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=30.6, Below BB",
+      "price": 0.1787006677500184
+    },
+    {
+      "time": 536,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=29.5, Below BB",
+      "price": 0.18001610535619308
+    },
+    {
+      "time": 537,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=72.5, Above BB",
+      "price": 192.3841299141676
+    },
+    {
+      "time": 538,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=72.8, Above BB",
+      "price": 198.20581233856046
+    },
+    {
+      "time": 552,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=35.0, Below BB",
+      "price": 3.3314844434989646e-07
+    },
+    {
+      "time": 553,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=21.1, Below BB",
+      "price": 2.8769876855916445e-07
+    },
+    {
+      "time": 554,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=20.7, Below BB",
+      "price": 2.5575606797547394e-07
+    },
+    {
+      "time": 555,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=15.3, Below BB",
+      "price": 2.2372887848211608e-07
+    },
+    {
+      "time": 561,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=62.6, Above BB",
+      "price": 0.25820613756418054
+    },
+    {
+      "time": 562,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=63.8, Above BB",
+      "price": 0.26415634690849654
+    },
+    {
+      "time": 563,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=65.7, Above BB",
+      "price": 0.2863185111010657
+    },
+    {
+      "time": 564,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=61.8, Above BB",
+      "price": 0.2810680455576678
+    },
+    {
+      "time": 565,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=76.8, Above BB",
+      "price": 0.2992523848647493
+    },
+    {
+      "time": 567,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=70.8, Above BB",
+      "price": 197.7249901052872
+    },
+    {
+      "time": 568,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=75.8, Above BB",
+      "price": 208.95209901979106
+    },
+    {
+      "time": 569,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=68.8, Above BB",
+      "price": 0.31617329029429214
+    },
+    {
+      "time": 570,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=63.9, Above BB",
+      "price": 0.15029876908716797
+    },
+    {
+      "time": 572,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=67.0, Above BB",
+      "price": 0.33488166641902184
+    },
+    {
+      "time": 573,
+      "symbol": "RAY",
+      "action": "SHORT",
+      "reason": "RSI=72.9, Above BB",
+      "price": 0.3461192742459831
+    },
+    {
+      "time": 576,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=79.7, Above BB",
+      "price": 234.0460803647764
+    },
+    {
+      "time": 577,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=87.2, Above BB",
+      "price": 242.79572444860312
+    },
+    {
+      "time": 577,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=66.2, Above BB",
+      "price": 1.8133145682265388
+    },
+    {
+      "time": 578,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=60.9, Above BB",
+      "price": 1.6739026443490517
+    },
+    {
+      "time": 579,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.7, Above BB",
+      "price": 245.20970522646522
+    },
+    {
+      "time": 579,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=33.4, Below BB",
+      "price": 1.4822877846090203e-07
+    },
+    {
+      "time": 582,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=27.6, Below BB",
+      "price": 1.2140212306270078e-07
+    },
+    {
+      "time": 586,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.7, Below BB",
+      "price": 0.11088149529270871
+    },
+    {
+      "time": 587,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=28.1, Below BB",
+      "price": 0.10866118989395504
+    },
+    {
+      "time": 591,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=24.8, Below BB",
+      "price": 0.09662701074721833
+    },
+    {
+      "time": 595,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=20.7, Below BB",
+      "price": 0.0796361741830061
+    },
+    {
+      "time": 602,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=65.5, Above BB",
+      "price": 245.87078352913235
+    },
+    {
+      "time": 604,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=68.1, Above BB",
+      "price": 257.43503478341415
+    },
+    {
+      "time": 605,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=73.9, Above BB",
+      "price": 271.3166137594091
+    },
+    {
+      "time": 606,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.1, Above BB",
+      "price": 292.9966129608677
+    },
+    {
+      "time": 606,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=38.0, Below BB",
+      "price": 0.23425429320539445
+    },
+    {
+      "time": 607,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=76.2, Above BB",
+      "price": 295.7990728503505
+    },
+    {
+      "time": 609,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.5, Below BB",
+      "price": 0.20920667389239617
+    },
+    {
+      "time": 610,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=77.7, Above BB",
+      "price": 318.8461462781974
+    },
+    {
+      "time": 611,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=81.5, Above BB",
+      "price": 335.1045198510549
+    },
+    {
+      "time": 612,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=83.2, Above BB",
+      "price": 349.68294067731915
+    },
+    {
+      "time": 615,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.6, Below BB",
+      "price": 0.06473401173982073
+    },
+    {
+      "time": 616,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=73.8, Above BB",
+      "price": 1.9668408718236055
+    },
+    {
+      "time": 621,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=39.7, Below BB",
+      "price": 0.18948131283444392
+    },
+    {
+      "time": 622,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=61.4, Above BB",
+      "price": 0.08822463899912025
+    },
+    {
+      "time": 622,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.9, Below BB",
+      "price": 0.17308893329708303
+    },
+    {
+      "time": 624,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=32.8, Below BB",
+      "price": 0.1581938212263873
+    },
+    {
+      "time": 625,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=34.9, Below BB",
+      "price": 0.1557812919481348
+    },
+    {
+      "time": 626,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=25.0, Below BB",
+      "price": 0.14170571705118817
+    },
+    {
+      "time": 627,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=78.9, Above BB",
+      "price": 453.0700120367399
+    },
+    {
+      "time": 628,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=63.3, Above BB",
+      "price": 2.05507603863047
+    },
+    {
+      "time": 629,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=62.2, Above BB",
+      "price": 2.2871431329954497
+    },
+    {
+      "time": 631,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=84.4, Above BB",
+      "price": 499.13320048278325
+    },
+    {
+      "time": 631,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=64.1, Above BB",
+      "price": 4.95282257001363e-08
+    },
+    {
+      "time": 632,
+      "symbol": "SOL",
+      "action": "SHORT",
+      "reason": "RSI=84.0, Above BB",
+      "price": 519.384585631015
+    },
+    {
+      "time": 640,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=70.9, Above BB",
+      "price": 3.000114758140424
+    },
+    {
+      "time": 641,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=72.2, Above BB",
+      "price": 3.237205456040447
+    },
+    {
+      "time": 642,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=31.1, Below BB",
+      "price": 0.09506919936915122
+    },
+    {
+      "time": 643,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=71.6, Above BB",
+      "price": 3.7243154300004164
+    },
+    {
+      "time": 643,
+      "symbol": "JUP",
+      "action": "SHORT",
+      "reason": "RSI=64.9, Above BB",
+      "price": 0.08942904128710623
+    },
+    {
+      "time": 644,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=30.6, Below BB",
+      "price": 0.08701294143203811
+    },
+    {
+      "time": 645,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=30.4, Below BB",
+      "price": 3.353820575618177e-08
+    },
+    {
+      "time": 645,
+      "symbol": "WIF",
+      "action": "SHORT",
+      "reason": "RSI=71.2, Above BB",
+      "price": 3.776812962688199
+    },
+    {
+      "time": 645,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=25.0, Below BB",
+      "price": 0.08129932186522093
+    },
+    {
+      "time": 655,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.2, Below BB",
+      "price": 0.0618087365344957
+    },
+    {
+      "time": 656,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=27.6, Below BB",
+      "price": 0.05798610982205527
+    },
+    {
+      "time": 657,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=22.9, Below BB",
+      "price": 0.055254912467230285
+    },
+    {
+      "time": 664,
+      "symbol": "BONK",
+      "action": "LONG",
+      "reason": "RSI=39.3, Below BB",
+      "price": 3.111848929072544e-08
+    },
+    {
+      "time": 667,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=30.6, Below BB",
+      "price": 392.9897680548917
+    },
+    {
+      "time": 668,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=31.3, Below BB",
+      "price": 366.66306677219586
+    },
+    {
+      "time": 673,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=37.7, Below BB",
+      "price": 0.05882457535612161
+    },
+    {
+      "time": 674,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=36.8, Below BB",
+      "price": 0.05484410680569203
+    },
+    {
+      "time": 676,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=70.7, Above BB",
+      "price": 4.896421523074577e-08
+    },
+    {
+      "time": 676,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=37.6, Below BB",
+      "price": 0.05227627520343642
+    },
+    {
+      "time": 678,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=38.3, Below BB",
+      "price": 0.050871054503861826
+    },
+    {
+      "time": 684,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=73.6, Above BB",
+      "price": 5.5215042497100815e-08
+    },
+    {
+      "time": 684,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=38.6, Below BB",
+      "price": 0.0347129212111223
+    },
+    {
+      "time": 687,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=72.3, Above BB",
+      "price": 6.065192528139824e-08
+    },
+    {
+      "time": 687,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=30.9, Below BB",
+      "price": 1.3204452286783486
+    },
+    {
+      "time": 688,
+      "symbol": "BONK",
+      "action": "SHORT",
+      "reason": "RSI=77.0, Above BB",
+      "price": 6.804663035777291e-08
+    },
+    {
+      "time": 691,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=27.0, Below BB",
+      "price": 0.03644597655542383
+    },
+    {
+      "time": 693,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=34.9, Below BB",
+      "price": 1.1258507838450538
+    },
+    {
+      "time": 694,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=34.2, Below BB",
+      "price": 1.0438001004241422
+    },
+    {
+      "time": 694,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=36.5, Below BB",
+      "price": 0.028111710449846193
+    },
+    {
+      "time": 695,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=32.8, Below BB",
+      "price": 0.9860189249538186
+    },
+    {
+      "time": 695,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=37.7, Below BB",
+      "price": 0.025439283651579214
+    },
+    {
+      "time": 696,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=27.9, Below BB",
+      "price": 0.0232050329852854
+    },
+    {
+      "time": 697,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=28.0, Below BB",
+      "price": 0.02324203034171543
+    },
+    {
+      "time": 698,
+      "symbol": "WIF",
+      "action": "LONG",
+      "reason": "RSI=26.4, Below BB",
+      "price": 0.7670570202359968
+    },
+    {
+      "time": 707,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=29.4, Below BB",
+      "price": 0.021835291517898155
+    },
+    {
+      "time": 713,
+      "symbol": "SOL",
+      "action": "LONG",
+      "reason": "RSI=37.3, Below BB",
+      "price": 319.1087713436499
+    },
+    {
+      "time": 718,
+      "symbol": "JUP",
+      "action": "LONG",
+      "reason": "RSI=35.9, Below BB",
+      "price": 0.022537791231726823
+    },
+    {
+      "time": 718,
+      "symbol": "RAY",
+      "action": "LONG",
+      "reason": "RSI=39.3, Below BB",
+      "price": 0.04620650064157659
+    }
+  ],
+  "trades": []
+}
