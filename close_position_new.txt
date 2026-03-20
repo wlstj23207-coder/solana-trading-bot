@@ -1,0 +1,48 @@
+    def close_position(self, symbol: str, exit_price: float, reason: str = "MANUAL"):
+        """포지션 청산"""
+        if symbol not in self.positions:
+            return
+        
+        position = self.positions[symbol]
+        
+        # PnL 계산 (청산 시 필요)
+        if position['position'] == 'LONG':
+            pnl_pct = (exit_price - position['entry_price']) / position['entry_price']
+            pnl_amount = position['size'] * pnl_pct
+        else:  # SHORT
+            pnl_pct = (position['entry_price'] - exit_price) / position['entry_price']
+            pnl_amount = position['size'] * pnl_pct
+        
+        # 자금 복귀
+        self.capital += position['size'] + pnl_amount
+        
+        # MACD 계산 (청산 시 필요)
+        exit_macd = self.calculate_macd([position['entry_price'], exit_price])[0] if len([position['entry_price'], exit_price]) >= 2 else (0, 0, 0)
+        
+        # 볼린저 밴드 계산 (청산 시 필요)
+        exit_bollinger = self.calculate_bollinger_bands([position['entry_price'], exit_price])[0] if len([position['entry_price'], exit_price]) >= 20 else (0, 0, 0)
+        
+        # RSI 계산 (청산 시 필요)
+        exit_rsi = self.calculate_rsi([position['entry_price']], 14) if len([position['entry_price'], exit_price]) >= 1 else 50.0
+        
+        trade = {
+            'symbol': symbol,
+            'position': position['position'],
+            'entry_price': position['entry_price'],
+            'exit_price': exit_price,
+            'pnl_pct': pnl_pct * 100,
+            'pnl_amount': pnl_amount,
+            'entry_time': position['entry_time'],
+            'exit_time': datetime.now(),
+            'reason': reason,
+            'exit_macd': exit_macd,
+            'exit_bollinger': exit_bollinger,
+            'exit_rsi': exit_rsi
+        }
+        
+        self.trades.append(trade)
+        
+        logger.info(f"💰 CLOSE {position['position']} {symbol} @ ${exit_price:.4f} | PnL: {pnl_pct*100:+.2f}% (${pnl_amount:+.2f}) | {reason}")
+        
+        # 포지션 리셋
+        del self.positions[symbol]

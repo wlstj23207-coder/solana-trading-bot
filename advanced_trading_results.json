@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "initial_capital": 1000.0,
+    "final_capital": -2999.9919487167863,
+    "total_return": -399.9991948716786,
+    "total_pnl": -3999.9919487167863,
+    "total_trades": 3,
+    "win_rate": 33.33333333333333,
+    "max_profit": -0.0,
+    "max_loss": -3999.9919487167863,
+    "avg_win": 83.65036574771422,
+    "avg_loss": 233.775027652397,
+    "actual_risk_reward": 0.3578242149631781
+  },
+  "exit_reasons": {
+    "SIMULATION_END": [
+      {
+        "symbol": "JUP",
+        "position": "SHORT",
+        "entry_price": 0.9856525169581795,
+        "exit_price": 4.928254649023333,
+        "pnl_pct": -399.9991948716786,
+        "pnl_amount": -3999.9919487167863,
+        "entry_time": "2026-03-21 01:34:09.009693",
+        "exit_time": "2026-03-21 01:34:09.310286",
+        "reason": "SIMULATION_END",
+        "exit_macd": 0,
+        "exit_bollinger": [
+          0,
+          0,
+          0
+        ],
+        "exit_rsi": 50.0
+      },
+      {
+        "symbol": "SOL",
+        "position": "SHORT",
+        "entry_price": 57.52478573225588,
+        "exit_price": 96.38327345670075,
+        "pnl_pct": -67.55086043311543,
+        "pnl_amount": -0.0,
+        "entry_time": "2026-03-21 01:34:09.012648",
+        "exit_time": "2026-03-21 01:34:09.310321",
+        "reason": "SIMULATION_END",
+        "exit_macd": 0,
+        "exit_bollinger": [
+          0,
+          0,
+          0
+        ],
+        "exit_rsi": 50.0
+      },
+      {
+        "symbol": "BONK",
+        "position": "SHORT",
+        "entry_price": 1.1536624470375481e-05,
+        "exit_price": 1.8861959059660941e-06,
+        "pnl_pct": 83.65036574771422,
+        "pnl_amount": 0.0,
+        "entry_time": "2026-03-21 01:34:09.033560",
+        "exit_time": "2026-03-21 01:34:09.310340",
+        "reason": "SIMULATION_END",
+        "exit_macd": 0,
+        "exit_bollinger": [
+          0,
+          0,
+          0
+        ],
+        "exit_rsi": 50.0
+      }
+    ]
+  },
+  "by_symbol": {
+    "JUP": {
+      "trades": 1,
+      "pnl": -3999.9919487167863,
+      "win_rate": 100.0
+    },
+    "SOL": {
+      "trades": 1,
+      "pnl": 0.0,
+      "win_rate": 100.0
+    },
+    "BONK": {
+      "trades": 1,
+      "pnl": 0.0,
+      "win_rate": 100.0
+    }
+  },
+  "trades": [
+    {
+      "symbol": "JUP",
+      "position": "SHORT",
+      "entry_price": 0.9856525169581795,
+      "exit_price": 4.928254649023333,
+      "pnl_pct": -399.9991948716786,
+      "pnl_amount": -3999.9919487167863,
+      "entry_time": "2026-03-21 01:34:09.009693",
+      "exit_time": "2026-03-21 01:34:09.310286",
+      "reason": "SIMULATION_END",
+      "exit_macd": 0,
+      "exit_bollinger": [
+        0,
+        0,
+        0
+      ],
+      "exit_rsi": 50.0
+    },
+    {
+      "symbol": "SOL",
+      "position": "SHORT",
+      "entry_price": 57.52478573225588,
+      "exit_price": 96.38327345670075,
+      "pnl_pct": -67.55086043311543,
+      "pnl_amount": -0.0,
+      "entry_time": "2026-03-21 01:34:09.012648",
+      "exit_time": "2026-03-21 01:34:09.310321",
+      "reason": "SIMULATION_END",
+      "exit_macd": 0,
+      "exit_bollinger": [
+        0,
+        0,
+        0
+      ],
+      "exit_rsi": 50.0
+    },
+    {
+      "symbol": "BONK",
+      "position": "SHORT",
+      "entry_price": 1.1536624470375481e-05,
+      "exit_price": 1.8861959059660941e-06,
+      "pnl_pct": 83.65036574771422,
+      "pnl_amount": 0.0,
+      "entry_time": "2026-03-21 01:34:09.033560",
+      "exit_time": "2026-03-21 01:34:09.310340",
+      "reason": "SIMULATION_END",
+      "exit_macd": 0,
+      "exit_bollinger": [
+        0,
+        0,
+        0
+      ],
+      "exit_rsi": 50.0
+    }
+  ]
+}
